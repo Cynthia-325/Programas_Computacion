@@ -1,5 +1,7 @@
 # Primer programa python computacion
-## Computacion 
-### Cynthia Edith Carrillo Castro             
-Maestria en Ingenieria y tecnologia aplicada             
-1er semestre
+## Computacion aplicada
+Nombre: Cynthia Edith Carrillo Castro             
+Correo: cynthiacarrilloc325@gmail.com
+usuario: Cynthia-325
+Actividad 2
+

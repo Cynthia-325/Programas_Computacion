@@ -1,0 +1,6 @@
+# Convertir temperatura de Celsius a Fahrenheit
+
+print("Conversor de Temperatura de Celsius a Fahrenheit:\n")
+celsius = float(input("Temperatura en Celsius: "))
+fahrenheit = (celsius * 9/5) + 32
+print(f"La temperatura en Fahrenheit es: {fahrenheit:.2f}°F")

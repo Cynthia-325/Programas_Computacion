@@ -33,3 +33,12 @@ TAREA                    21 agosto:
 -> P020-numero-suerte.py
 -> P021-distancia-entre-puntos.py
 -> P022-resistencia-equivalente-paralelo.py
+
+ACT 4                    24 agosto:
+P023-verificar-numero.py
+P024-verificar-numero-v2.py
+P025-verificar-suma.py
+P026–convertir-temperaturas-v2.py
+P027-calcular-paga-extra.py
+P028-retira-cuenta.py
+P029-calculadora-descuento.py

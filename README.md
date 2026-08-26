@@ -34,7 +34,7 @@ TAREA                    21 agosto:
 -> P021-distancia-entre-puntos.py
 -> P022-resistencia-equivalente-paralelo.py
 
-ACT 4                    24 agosto:
+ACT 5                    24 agosto:
 P023-verificar-numero.py
 P024-verificar-numero-v2.py
 P025-verificar-suma.py
@@ -42,3 +42,11 @@ P026–convertir-temperaturas-v2.py
 P027-calcular-paga-extra.py
 P028-retira-cuenta.py
 P029-calculadora-descuento.py
+
+ACT 6                   26 de agosto
+P030-verifica-suma.py
+P031-2da-ley-de-newton.py
+P032-aceptar-estudiante.py
+P033-aceptar-estudiante-v2.py
+P034-tipo-angulo.py
+P035-tipo-triangulo.py

@@ -106,3 +106,13 @@ p076-piramide-caracter.py
 p077-factorial-numeros.py
 p078-combina-colores.py
 p079-suma-potencias.py
+
+TAREA 4
+p080-compara-rendimiento-inversion.py
+p081-plan-ahorro-depistos-mensuales.py
+p082-cuadro-hueco-caracter.py
+p083-rombo-caracter.py
+p084-triangulo-invertido-numeros.py
+
+EXAMEN PRIMER PARCIAL
+p085-simulador-venta-combustible.py

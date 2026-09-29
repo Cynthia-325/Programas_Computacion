@@ -116,3 +116,11 @@ p084-triangulo-invertido-numeros.py
 
 EXAMEN PRIMER PARCIAL
 p085-simulador-venta-combustible.py
+
+ACTIVIDAD 12
+p085-acceder-lista.py
+p086-modificar-lista.py
+p087-agregar-lista.py
+p088-eliminar-lista.py
+p089-iterar-lista.py
+p090-lista-de-gastos.py

@@ -118,9 +118,35 @@ EXAMEN PRIMER PARCIAL
 p085-simulador-venta-combustible.py
 
 ACTIVIDAD 12
-p085-acceder-lista.py
-p086-modificar-lista.py
-p087-agregar-lista.py
-p088-eliminar-lista.py
-p089-iterar-lista.py
-p090-lista-de-gastos.py
+p086-acceder-lista.py
+p087-modificar-lista.py
+p088-agregar-lista.py
+p089-eliminar-lista.py
+p090-iterar-lista.py
+p091-lista-de-gastos.py
+
+ACT 13
+p092-procesar-calificaciones.py
+p093-consolidar-ventas.py
+p094-precio-acciones.py
+p095-registro-estudiantes.py
+p096-procesar-datos-sensores.py
+p097-producto-punto.py
+
+ACT 15
+p098-cuadrados-lista.py
+p099-filtrar-pares.py
+p100-normalizar-nombres.py
+p101-clasificar-temperaturas.py
+p102-aplanar-matriz.py
+p103-resumen-ventas.py
+
+TAREA 5
+p104-procesar-notas.py
+p105-listas-multiplica.py
+p106-mes-día-nombre.py
+p107-listas-aleatorios-suma.py
+p108-ciudades.py
+p109-lista-impares.py
+p110-comprension-filtra-palabras.py
+p111-comprension-pares-cuadrados.py

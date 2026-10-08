@@ -46,4 +46,4 @@ else:
 print("-" * 35)
 print(f"TOTAL A PAGAR: ${total_general:,.2f}")
 print("¡Gracias por su compra!")
-print("\n  🐱‍👤🐱‍👤🐱‍👤")
+print("\n  🐱‍👤🐱‍👤🐱‍👤 ")

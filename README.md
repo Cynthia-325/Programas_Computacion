@@ -158,3 +158,9 @@ p114-nombres-edades.py
 p115-conversor-unidades.py
 p116-conversion-divisas.py
 p117-punto-de-venta.py
+
+ACT 17
+p118-lote-autos.py
+p119-registro-estudiantes.py
+p120-reporte-ventas.py
+p121-area-figuras.py

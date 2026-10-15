@@ -164,3 +164,11 @@ p118-lote-autos.py
 p119-registro-estudiantes.py
 p120-reporte-ventas.py
 p121-area-figuras.py
+
+TAREA 6
+p122-crear-acceder-diccionario.py
+p123-modificar-diccionario.py
+p124-agregar-diccionario.py
+p125-eliminar-diccionario.py
+p126-procesar-diccionario.py
+p127-contar-caracteres.py

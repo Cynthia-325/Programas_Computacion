@@ -34,3 +34,4 @@ elif fig=='Rectangulo':
     str(l)).replace('a',str(a))
     area = eval(formula_lista)
 print(f'\nEl Área del {fig} es : {area:.4f}')
+print("\n  🐱‍👤🐱‍👤🐱‍👤 ")

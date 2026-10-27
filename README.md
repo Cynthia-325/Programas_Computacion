@@ -180,3 +180,7 @@ p129-operaciones-conjuntos.py
 TAREA 7
 p130-conjunto-personas.py
 p131-conjunt-numeros.py
+
+ACTIVIDAD 19
+p132-coordenadas.py
+p133-alumnos-tuplas.py

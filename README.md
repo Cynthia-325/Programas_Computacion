@@ -188,3 +188,6 @@ p133-alumnos-tuplas.py
 TAREA 8
 p134-coordenadas-tuplas.py
 p135-alumnos-tuplas.py
+
+EXAMEN 2
+p136-segundo-examen-parcial.py

@@ -184,3 +184,7 @@ p131-conjunt-numeros.py
 ACTIVIDAD 19
 p132-coordenadas.py
 p133-alumnos-tuplas.py
+
+TAREA 8
+p134-coordenadas-tuplas.py
+p135-alumnos-tuplas.py

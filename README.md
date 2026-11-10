@@ -191,3 +191,30 @@ p135-alumnos-tuplas.py
 
 EXAMEN 2
 p136-segundo-examen-parcial.py
+
+ACTIVIDAD 20
+p137-funcion-simple.py
+p138-funcion-parametro.py
+p139-funcion-parametros.py
+p140-func-param-nombre.py
+p141-func-param-defecto.py
+p142-func-mas-param.py
+p143-funcion-retorno.py
+p144-tabla-multiplicar.py
+p145-cuadro-caracter.py
+p146-numero-mayor.py
+p147-estacion-año.py
+p148-temperatura.py
+p149-suma-digitos.py
+p150-factorial.py
+p151-promedio-letra.py
+p152-suma-rango.py
+
+ACTIVIDAD 21
+p153-suma-lista.py
+p154-lista-pares.py
+p155-mayor-menor.py
+p156-mayores-promedio.py
+p157-pares-impares.py
+p158-aleatorios.py
+p159-nombres.py
